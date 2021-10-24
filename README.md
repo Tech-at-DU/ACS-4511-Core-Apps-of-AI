@@ -49,9 +49,9 @@ By the end of this course, you will be able to ...
 | 13 |  Wed, November 17              | [Seminars Part 1]|
 | 14 |  Fri, November 19              | Lab Day  |
 | 15 |  Mon, November 22              | [Seminars Part 2] |
-| 16 |  Wed, November 24              | [Seminars Part 2] |
-| 17 |  Fri, November 26              | Lab Day  |
-| 18 |  Mon, November 29              |  TBD |
+| 16 |  Wed, November 24              | **NO SCHOOL** - Thanksgiving Break |
+| 17 |  Fri, November 26              | **NO SCHOOL** - Thanksgiving Break |
+| 18 |  Mon, November 29              |  [Seminars Part 2] |
 | 19 |  Wed, December 1               |  TBD |
 | 20 |  Fri, December 3               | Lab Day |
 | 21 |  Mon, December 6               |  TBD |
