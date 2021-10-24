@@ -36,17 +36,27 @@ By the end of this course, you will be able to ...
 |  - |  Mon, October 18               | [NLP Part 1] |
 |  1 |  Wed, October 20               | [NLP Part 1] |
 |  2 |  Fri, October 22               | Lab Day |
-|  3 |  Wed, October 25               | [Intro to Recommender Systems] |
-|  4 |  Mon, October 27               | [Deep Learning for Recommender Systems] |
-|  5 |  Wed, October 29               | [Advanced Keras] |
-|  6 |  Mon, November 1              | [Graphical Models] |
-|  7 |  Wed, November 3              | [Network Analysis] |
-|  8 |  Mon, November 5              | [GAN] |
-|  9 |  Wed, November 8              | [Seminars Part 1] |
-| 10 |  Mon, November 10              | [Seminars Part 1]|  
-| 11 |  Wed, November 12              | [Seminars Part 2]|
-| 12 |  Mon, November 15                  | [Seminars Part 2] |
-| 13 |  Mon, November 17                | Final Exam/Presentations |
+|  3 |  Mon, October 25               | [Intro to Recommender Systems] |
+|  4 |  Wed, October 27               | [Deep Learning for Recommender Systems] |
+|  5 |  Fri, October 29               | Lab Day  |
+|  6 |  Mon, November 1               | [Graphical Models] |
+|  7 |  Wed, November 3               |  [Advanced Keras] |
+|  8 |  Fri, November 5               | Lab Day |
+|  9 |  Mon, November 8               | [Network Analysis] |
+| 10 |  Wed, November 10              | [GAN]  |  
+| 11 |  Fri, November 12              | Lab Day |
+| 12 |  Mon, November 15              | [Seminars Part 1] |
+| 13 |  Wed, November 17              | [Seminars Part 1]|
+| 14 |  Fri, November 19              | Lab Day  |
+| 15 |  Mon, November 22              | [Seminars Part 2] |
+| 16 |  Wed, November 24              | [Seminars Part 2] |
+| 17 |  Fri, November 26              | Lab Day  |
+| 18 |  Mon, November 29              |  TBD |
+| 19 |  Wed, December 1               |  TBD |
+| 20 |  Fri, December 3               | Lab Day |
+| 21 |  Mon, December 6               |  TBD |
+| 22 |  Wed, December 8               | Final Exam/Presentations |
+| 23 |  Fri, December 10              | Lab Day  |
 
 [NLP Part 1]: Notebooks/NLP/NLP_part1_part2.ipynb
 [NLP Part 2]: Notebooks/NLP/NLP_part1_part2.ipynb
